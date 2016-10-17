@@ -18,8 +18,6 @@ ul {
     width: 75%;
     height: 45px;
     border-radius: 10px;
-    moz-border-radius: 10px;
-    webkit-border-radius: 10px;
     background-color: #ffffff;
 }
 
@@ -66,15 +64,15 @@ li.dropdown {
 
 
 @media (max-width: 580px) {
-    
+
     ul {
         width: 100%;
         border-radius: 0px;
-        
+
     }
-    
+
     .dropdown-content {
         border-radius: 0px;
-    }    
-    
+    }
+
 }
